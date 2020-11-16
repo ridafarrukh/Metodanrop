@@ -12,7 +12,7 @@ import java.util.Scanner;
 
 public class Mobiltest {
     public static void main(String[] args) {
-        /*
+
         String s;
         s = JOptionPane.showInputDialog("Ange Antal samtal?");
         int samtal  = Integer.parseInt(s);
@@ -26,7 +26,7 @@ public class Mobiltest {
 
 
 
-         */
+         /*
 
         Scanner scan = new Scanner(System.in);
         System.out.println("Ange antal samtal");
@@ -43,6 +43,8 @@ public class Mobiltest {
         System.out.println("Kostnad: "+ kos + " kr ");
 
 
+
+          */
 
 
 
