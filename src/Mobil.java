@@ -7,4 +7,11 @@
  */
 
 public class Mobil {
+
+    public static double månadskostnad(int samtal,int minDag,int minÖvr){
+        return 50 + samtal*0.60 + minDag * 2.50 + minÖvr * 0.55;
+
+
+    }
+
 }
